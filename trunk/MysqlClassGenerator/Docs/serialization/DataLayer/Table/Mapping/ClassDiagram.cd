@@ -1,0 +1,161 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="it.furinfo.pompa.DataLayer.Table.Mapping.pumpParam">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAQAAACAAAAAAAIAAAQgIAAAAAAAgBAEAABAAEAAAA=</HashCode>
+      <FileName>DataLayer\Table\Mapping\pump_param.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="it.furinfo.pompa.DataLayer.Table.Mapping.tbmeasures" Collapsed="true">
+    <Position X="6.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAkAAEEAAAggEEQEEIWAQCgkQAEQAAAQABAAAgAAAA=</HashCode>
+      <FileName>DataLayer\Table\Mapping\tbmeasures.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="it.furinfo.pompa.DataLayer.Table.Mapping.tbmeasurements" Collapsed="true">
+    <Position X="4.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAkAAEEAAAACAEIEAISAICggAAAAAAAAAAAAAABAAA=</HashCode>
+      <FileName>DataLayer\Table\Mapping\tbmeasurements.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="it.furinfo.pompa.DataLayer.Table.Mapping.tbconversions" Collapsed="true">
+    <Position X="2.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgkABkkAAAAAAEgFBASAABgIAAAEAAAUAAQAEIAAAA=</HashCode>
+      <FileName>DataLayer\Table\Mapping\tbconversions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="it.furinfo.pompa.DataLayer.Table.Mapping.tbsensors">
+    <Position X="0.5" Y="3.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>8CGkLYBkCgaAAcMgESIWAQAgEJYKBAAoACoZQGkQIOI=</HashCode>
+      <FileName>DataLayer\Table\Mapping\tbsensors.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Delegate Name="it.furinfo.pompa.DataLayer.Table.Mapping.tbmeasures_MeasureIdChangeHendler" Collapsed="true">
+    <Position X="4.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DataLayer\Table\Mapping\tbmeasures.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="it.furinfo.pompa.DataLayer.Table.Mapping.tbmeasures_MeasurementIdChangeHendler" Collapsed="true">
+    <Position X="8" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DataLayer\Table\Mapping\tbmeasures.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="it.furinfo.pompa.DataLayer.Table.Mapping.tbmeasures_MeasureDescriptionChangeHendler" Collapsed="true">
+    <Position X="2.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DataLayer\Table\Mapping\tbmeasures.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="it.furinfo.pompa.DataLayer.Table.Mapping.tbmeasures_MeasureLabelChangeHendler" Collapsed="true">
+    <Position X="6.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DataLayer\Table\Mapping\tbmeasures.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="it.furinfo.pompa.DataLayer.Table.Mapping.tbmeasures_UsedByFormulaChangeHendler" Collapsed="true">
+    <Position X="4.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>DataLayer\Table\Mapping\tbmeasures.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="it.furinfo.pompa.DataLayer.Table.Mapping.tbmeasures_NotesChangeHendler" Collapsed="true">
+    <Position X="9.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DataLayer\Table\Mapping\tbmeasures.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="it.furinfo.pompa.DataLayer.Table.Mapping.tbmeasures_TimestampChangeHendler">
+    <Position X="2.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAA=</HashCode>
+      <FileName>DataLayer\Table\Mapping\tbmeasures.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="it.furinfo.pompa.DataLayer.Table.Mapping.tbmeasurements_MeasurementIdChangeHendler" Collapsed="true">
+    <Position X="6.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DataLayer\Table\Mapping\tbmeasurements.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="it.furinfo.pompa.DataLayer.Table.Mapping.tbmeasurements_MeasurementDescriptionChangeHendler" Collapsed="true">
+    <Position X="4.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DataLayer\Table\Mapping\tbmeasurements.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="it.furinfo.pompa.DataLayer.Table.Mapping.tbmeasurements_NotesChangeHendler" Collapsed="true">
+    <Position X="8" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DataLayer\Table\Mapping\tbmeasurements.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="it.furinfo.pompa.DataLayer.Table.Mapping.tbmeasurements_TimestampChangeHendler" Collapsed="true">
+    <Position X="9.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAA=</HashCode>
+      <FileName>DataLayer\Table\Mapping\tbmeasurements.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="it.furinfo.pompa.DataLayer.Table.Mapping.tbconversions_SourceMeasureChangeHendler" Collapsed="true">
+    <Position X="9.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DataLayer\Table\Mapping\tbconversions.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="it.furinfo.pompa.DataLayer.Table.Mapping.tbconversions_DestinationMeasureChangeHendler" Collapsed="true">
+    <Position X="4.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DataLayer\Table\Mapping\tbconversions.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="it.furinfo.pompa.DataLayer.Table.Mapping.tbconversions_ConversionValueChangeHendler" Collapsed="true">
+    <Position X="2.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAA=</HashCode>
+      <FileName>DataLayer\Table\Mapping\tbconversions.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="it.furinfo.pompa.DataLayer.Table.Mapping.tbconversions_ExponentChangeHendler" Collapsed="true">
+    <Position X="6.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>DataLayer\Table\Mapping\tbconversions.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="it.furinfo.pompa.DataLayer.Table.Mapping.tbconversions_NotesChangeHendler" Collapsed="true">
+    <Position X="8" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DataLayer\Table\Mapping\tbconversions.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="it.furinfo.pompa.DataLayer.Table.Mapping.tbconversions_TimestampChangeHendler" Collapsed="true">
+    <Position X="2.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAA=</HashCode>
+      <FileName>DataLayer\Table\Mapping\tbconversions.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Font Name="Tahoma" Size="8.25" />
+</ClassDiagram>
