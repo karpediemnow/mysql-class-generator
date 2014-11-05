@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ClassModellator.MysqlClassModellator.MysqlClass">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAIAgAAAAAAwAAAAAAgAAAIAAAAAAAAABEAAQAAAA=</HashCode>
+      <FileName>MysqlClassModellator.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="TableInformation" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="ClassModellator.MysqlClassModellator.Informations.TableInformations">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>JgECASDEKAwQAECIEiIAIgQEAUEQEAEBBISQAgCigAA=</HashCode>
+      <FileName>Informations\TableInformations.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
